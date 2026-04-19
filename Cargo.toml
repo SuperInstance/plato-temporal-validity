@@ -1,0 +1,9 @@
+[package]
+name = "plato-temporal-validity"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+
+[lib]
+name = "plato_temporal_validity"
+path = "src/lib.rs"
